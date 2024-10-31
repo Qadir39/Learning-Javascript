@@ -106,6 +106,12 @@
 //     }
 // }
 
+
+
+
+
+//**************   TABLE PROGRAM     ****************
+
 var userInput = +prompt("enter a number ");
 var range = +prompt("enter a range");
 
